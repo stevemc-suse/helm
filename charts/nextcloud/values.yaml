@@ -64,7 +64,7 @@ lifecycle: {}
   # preStopCommand: []
 
 nextcloud:
-  host: nextcloud.kube.home
+  host: nextcloud.geekosoup.com
   username: admin
   password: changeme
   ## Use an existing secret
