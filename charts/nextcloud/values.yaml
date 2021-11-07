@@ -309,7 +309,7 @@ cronjob:
   # affinity: {}
 
 service:
-  type: ClusterIP
+  type: LoadBalancer
   port: 8080
   loadBalancerIP: nil
   nodePort: nil
